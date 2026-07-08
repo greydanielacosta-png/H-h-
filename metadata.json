@@ -1,0 +1,6 @@
+{
+  "name": "Spotify Radio",
+  "description": "Spotify Connect and local files radio companion for Forza Horizon 5 and 6.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
